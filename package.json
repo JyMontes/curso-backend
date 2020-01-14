@@ -1,0 +1,18 @@
+{
+  "name": "curso-backend",
+  "version": "1.0.0",
+  "description": "Proyecto para Inviertete",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "José Yael",
+  "license": "ISC"
+}

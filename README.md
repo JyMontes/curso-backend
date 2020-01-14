@@ -1,0 +1,8 @@
+Pasos a seguir para instalar este proyecto
+1.-clonar el repositorio en tu computadora.
+
+2.- Verificar que tienes la ultima version de NPM y estas utilizando la version de node        8.12.0.
+
+3.-Ejecutar el comando 'npm install' para instalar todas las dependencias necesarias.
+
+4.-Con el comando 'npm run start' se inicia el servidor.
